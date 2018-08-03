@@ -1,2 +1,2 @@
-var breakfast = plungers;
-var lunch = glass;
+var breakfast = eggs;
+var lunch = burgers;
